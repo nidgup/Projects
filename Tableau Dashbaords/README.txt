@@ -1,1 +1,1 @@
-This project utilizes Covid-19 data to identify trend in the Covid-19 cases from Jan 2020 till April 2021 for different countries. Technolgy used : Power BI, Power Query
+
